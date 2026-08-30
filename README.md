@@ -77,7 +77,6 @@
 
 </div>
 
-> ⚠️ The snake above only appears once the workflow below has run at least once on your repo — see setup notes.
 
 ---
 
