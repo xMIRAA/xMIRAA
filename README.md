@@ -9,7 +9,6 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=xMIRAA&color=2563eb&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/xMIRAA?label=Follow&style=flat-square&color=2563eb)](https://github.com/xMIRAA)
 
 </div>
 
